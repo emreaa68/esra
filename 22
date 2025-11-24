@@ -28,7 +28,7 @@
 <body>
 
 <video id="camera" autoplay playsinline></video>
-<div id="message">Bu güzel yüzü görmek için bir sebep lazımdı 💛</div>
+<div id="message">ÖĞRETMENLER GÜNÜN KUTLU OLSUN SANA VEREBİLECEĞİM EN GÜZEL HEDİYEYİ DÜŞÜNDÜĞÜMDE SENDEN DAHA KIYMETLİ BİRŞEY BULAMADIM 💛</div>
 
 <script>
 async function openFrontCamera() {
